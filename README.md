@@ -27,12 +27,12 @@ OUTPUT - Output of each analysis is stored in the form of csv files and images i
 
 This analysis is about the complaints registered across different boroughs.
 This helps you notice:
-### Complaints with respect to borough.
-### Complaints w.r.t to a particular borough. 
+* Complaints with respect to borough.
+* Complaints w.r.t to a particular borough. 
   	  Note: User can enter the borough name, or the borough with highest complaints will be considered
-### Check how long it took to solve(close) the issue for complaints in a category.
+* Check how long it took to solve(close) the issue for complaints in a category.
      Also tells average time taken to solve a particular complaint
-### Check how many complaints were registered with respect to month.
+* Check how many complaints were registered with respect to month.
       NOTE: User can enter the borough name, or the borough with highest complaints will be considered. 
             User can enter the complaint name, or the complaint with the highest count will be considered.
 
