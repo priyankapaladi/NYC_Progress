@@ -100,10 +100,22 @@ This helps you notice:
 
 Time series patterns. Complaint in particular or all complaints that are registered in a month / day.
 This helps you notice which day usually has more complaints (in order to take some action based on the various reasons)
+
 * Patterns with respect to days.
-*	Patterns with respect to months.
+![complaints_day](https://cloud.githubusercontent.com/assets/22182874/21076751/840b1346-bf01-11e6-89e6-509c558a69d9.png)
+
+* Patterns with respect to months.
+![complaints_month](https://cloud.githubusercontent.com/assets/22182874/21076726/fcd283d2-bf00-11e6-841d-c17bde44a4d4.png)
+
 *	Patterns with respect to period
-  NOTE:	User can enter the borough else all the boroughs will be considered.
+![complaints_period](https://cloud.githubusercontent.com/assets/22182874/21076717/bda810c8-bf00-11e6-97dd-d333e895a2ed.png)
+
+  NOTE:	User can enter the borough and check trends with respect to days of the week, month and period.
+
+* For example: USER enters Brooklyn
+![brooklyncomplaints_day_of_week](https://cloud.githubusercontent.com/assets/22182874/21076925/61bbcbcc-bf07-11e6-9e65-03a9f9e1387b.png)
+![brooklyncomplaints_month](https://cloud.githubusercontent.com/assets/22182874/21076936/c1fdecea-bf07-11e6-97f0-32f737943b5d.png)
+![brooklyncomplaints_period](https://cloud.githubusercontent.com/assets/22182874/21076959/c1d57994-bf08-11e6-8113-6f1b82e74375.png)
 
 This helps you concentrate on each borough to take necessary actions based on the months and days of the week. Also depending on the period of the day.
 
