@@ -1,14 +1,17 @@
 # NYC_Progress
-Analyse the complaints registered with respect to all the agencies in various categories to check the trend of NYC Life style and progress (or deteoriation) 
+Analyze the trends and changes in New York City
 ![nyc](https://cloud.githubusercontent.com/assets/22182874/21075598/24498c0c-bee4-11e6-839c-041296cf24a2.jpg)
 
+Analyse the complaints registered with respect to all the agencies in various categories to check the trend of NYC Life style and                                                            progress (or deteoriation) 
 
-Analyze the trends and changes in New York City
 
-About the Data collected
-The data consists of complaints that has been registered at various agencies at different cities at different times. 
-It also consists of various categories of complaints and the times at which they were closed. 
-The data helps you notice the various incidents happening in New York.
+
+* About the Data collected
+
+-- The data consists of complaints that has been registered at various agencies at different cities at different times. 
+-- It also consists of various categories of complaints and the times at which they were closed. 
+-- The data helps you notice the various incidents happening in New York.
+
 
 An effort has been made to analyze about New York, in order to know how the city is progressing or deteriorating in handling various issues in the city.
 
@@ -16,7 +19,7 @@ The data was then cleansed where a new file was created by using only those colu
 
  
 
-This is the sample of the dataset that was collected. This dataset was then filtered according to the requirement and generated a new csv file for analysis.
+Sample of the dataset that was collected. This dataset was then filtered according to the requirement and generated a new csv file for analysis.
 
 OUTPUT - Output of each analysis is stored in the form of csv files and images in the respective folders.
 
@@ -24,16 +27,14 @@ Analysis 1
 
 This analysis is about the complaints registered across different boroughs.
 This helps you notice:
-•	Which borough has more complaints in a particular year.
-•	What type of complaints have been registered more number times in a particular borough. 
-  o	User can enter the borough name, or the borough with highest complaints will be considered
-•	Check how long it took to solve(close) the issue for complaints in a category.
-  o	User can enter the borough name, or the borough with highest complaints will be considered.
-  o	User can enter the complaint name, or the complaint with the highest count will be considered.
-•	Also tells average time taken to solve a particular complaint
-•	Check how many complaints were registered with respect to month.
-  o	User can enter the borough name, or the borough with highest complaints will be considered.
-  o	User can enter the complaint name, or the complaint with the highest count will be considered.
+### Complaints with respect to borough.
+### Complaints w.r.t to a particular borough. 
+  	  Note: User can enter the borough name, or the borough with highest complaints will be considered
+### Check how long it took to solve(close) the issue for complaints in a category.
+     Also tells average time taken to solve a particular complaint
+### Check how many complaints were registered with respect to month.
+      NOTE: User can enter the borough name, or the borough with highest complaints will be considered. 
+            User can enter the complaint name, or the complaint with the highest count will be considered.
 
 
 Analysis 2
