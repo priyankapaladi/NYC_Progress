@@ -6,12 +6,12 @@ Analyse the complaints registered with respect to all the agencies in various ca
 
 
 
-* About the Data collected
-[I'm an inline-style link](https://www.google.com)
+### Data collected 
+ [NYC DATA 311 Requests](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data)
 
--- The data consists of complaints that has been registered at various agencies at different cities at different times. 
--- It also consists of various categories of complaints and the times at which they were closed. 
--- The data helps you notice the various incidents happening in New York.
+* The data consists of complaints that has been registered at various agencies at different cities at different times. 
+* It also consists of various categories of complaints and the times at which they were closed. 
+* The data helps you notice the various incidents happening in New York.
 
 
 An effort has been made to analyze about New York, in order to know how the city is progressing or deteriorating in handling various issues in the city.
