@@ -23,7 +23,7 @@ Sample of the dataset that was collected. This dataset was then filtered accordi
 
 OUTPUT - Output of each analysis is stored in the form of csv files and images in the respective folders.
 
-Analysis 1
+## Analysis 1
 
 This analysis is about the complaints registered across different boroughs.
 This helps you notice:
