@@ -39,7 +39,8 @@ This helps you notice:
 
 * Check how long it took to solve(close) the issue for complaints in a category.
       Also tells average time taken to solve a particular complaint 
-      Sample output data
+
+* Sample output data
 
 Agency|Created Date|Month|Complaint Type|Time Taken to Close|Borough
 ------------ | ------------------ | ------------ | ------------ | ------------ | ------------ 
@@ -72,15 +73,27 @@ NYPD|2015-07-03 23:09:16|Jul|Blocked Driveway|0 days 02:10:20.000000000|BROOKLYN
 
 This helps to analyze the traffic pattern in the city.
 This helps you notice:
-*	How traffic issues are with respect to borough
+
+* How traffic issues are with respect to borough
+
+![traffic_issues_borough](https://cloud.githubusercontent.com/assets/22182874/21076076/499763f6-bef0-11e6-9589-276998f186b2.png)
+
 *	Traffic issues with respect to the day of a week
      NOTE:	User can enter the borough else all the boroughs will be considered.
+     For example - Brooklyn
+     
+![traffic_issues_borough_day](https://cloud.githubusercontent.com/assets/22182874/21076149/1a02cfca-bef2-11e6-8559-2f20a9e62444.png)
+
+     
 * Traffic issues with respect to period of the day
   NOTE: User can enter the borough else all the boroughs will be considered.
         User can enter the period else all the periods of the day will be considered.
+        
   (early morning, morning, afternoon, evening, night)
   {8: 'morning', 16: 'evening', 12: 'afternoon', 20: 'night'} – intervals of 4
   Early morning – 00:00 to 08:00
+
+![traffic_issues_period_borough](https://cloud.githubusercontent.com/assets/22182874/21076307/f700e3dc-bef5-11e6-9e6e-7ebb454e298e.png)
 
 
 ## Analysis 3
