@@ -35,7 +35,7 @@ This helps you notice:
 * Complaints w.r.t to a particular borough. 
   	  Note: User can enter the borough name, or the borough with highest complaints will be considered
 
-![complaints_count](https://cloud.githubusercontent.com/assets/22182874/21075908/fb316af8-beeb-11e6-83c2-6bf34762980d.png)
+![complaints_count_borough](https://cloud.githubusercontent.com/assets/22182874/21075908/fb316af8-beeb-11e6-83c2-6bf34762980d.png)
 
 * Check how long it took to solve(close) the issue for complaints in a category.
       Also tells average time taken to solve a particular complaint 
@@ -65,7 +65,7 @@ NYPD|2015-07-03 23:09:16|Jul|Blocked Driveway|0 days 02:10:20.000000000|BROOKLYN
       NOTE: User can enter the borough name, or the borough with highest complaints will be considered. 
             User can enter the complaint name, or the complaint with the highest count will be considered.
 
-![complaintspermonth](https://cloud.githubusercontent.com/assets/22182874/21075986/365ba6b4-beee-11e6-875b-1c263581a2d3.png)
+![complaintspermonth](https://cloud.githubusercontent.com/assets/22182874/21076013/c69b3d2a-beee-11e6-9c48-9611a8965501.png)
 
 
 ## Analysis 2
