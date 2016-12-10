@@ -18,10 +18,10 @@ An effort has been made to analyze about New York, in order to know how the city
 
 The data was then cleansed where a new file was created by using only those columns which provide more information and are helpful for analysis. 
 
+* SAMPLE DATA
+![image](https://cloud.githubusercontent.com/assets/22182874/21075778/875b527c-bee8-11e6-83e7-37f453108765.png)
+
  
-
-Sample of the dataset that was collected. This dataset was then filtered according to the requirement and generated a new csv file for analysis.
-
 OUTPUT - Output of each analysis is stored in the form of csv files and images in the respective folders.
 
 ## Analysis 1
