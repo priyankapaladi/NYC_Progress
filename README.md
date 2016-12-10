@@ -17,7 +17,7 @@ The data was then cleansed where a new file was created by using only those colu
 
 This is the sample of the dataset that was collected. This dataset was then filtered according to the requirement and generated a new csv file for analysis.
 
-
+OUTPUT - Output of each analysis is stored in the form of csv files and images in the respective folders.
 
 Analysis 1
 
