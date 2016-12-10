@@ -1,5 +1,6 @@
 # NYC_Progress
 Analyse the complaints registered with respect to all the agencies in various categories to check the trend of NYC Life style and progress (or deteoriation) 
+![nyc](https://cloud.githubusercontent.com/assets/22182874/21075598/24498c0c-bee4-11e6-839c-041296cf24a2.jpg)
 
 
 Analyze the trends and changes in New York City
