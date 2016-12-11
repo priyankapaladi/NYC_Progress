@@ -24,7 +24,7 @@ The data was then cleansed where a new file was created by using only those colu
  
 OUTPUT - Output of each analysis is stored in the form of csv files and images in the respective folders.
 
-## Analysis 1
+### Analysis 1
 
 This analysis is about the complaints registered across different boroughs.
 This helps you notice:
@@ -139,8 +139,17 @@ Helps to decide what necessary actions can be taken by each agency depending on 
 
 Each agency has various complaints have been opened, closed, pending etc.
 Depending on the count of each type of complaints and their status, agency has to take action.
+
 *	Find the pending, closed, assigned and opened complaints for each agency with their count.
+
+![complaints_statuses](https://cloud.githubusercontent.com/assets/22182874/21077521/7f8b093c-bf1c-11e6-9475-47e497cbb74c.png)
+
 *	User can enter agency and status and check records with the incident location
+  For example user entered
+
+![complaints_statuses](https://cloud.githubusercontent.com/assets/22182874/21077549/7d821b98-bf1d-11e6-8a17-e9b6da7200de.png)
+
+
 
 This helps the agency to decide what can be done with respect to incidents that are pending or open across boroughs
 
