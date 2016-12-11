@@ -1,0 +1,22 @@
+Agency,Complaint Type,Efficiency in %,count
+NYPD,Noise - Commercial,-0.04838709677419355,62
+NYPD,Noise - Street/Sidewalk,-0.07446808510638298,94
+NYPD,Noise - Vehicle,-0.08333333333333333,24
+NYPD,Illegal Parking,-0.11428571428571428,140
+NYPD,Blocked Driveway,-0.1503267973856209,153
+NYPD,Animal Abuse,-0.18181818181818182,11
+NYPD,Vending,-0.23076923076923078,13
+NYPD,Homeless Encampment,-0.26666666666666666,15
+NYPD,Derelict Vehicle,-0.2727272727272727,22
+DOF,DOF Literature Request,-1.0,2
+HPD,HPD Literature Request,-1.0,1
+DOT,Bridge Condition,-2.0,1
+FDNY,Fire Safety Director - F58,-4.5,2
+DPR,Damaged Tree,-9.529411764705882,17
+DPR,Dead Tree,-14.928571428571429,14
+DPR,Root/Sewer/Sidewalk Condition,-15.125,8
+TLC,Taxi Complaint,-18.76923076923077,13
+TLC,For Hire Vehicle Complaint,-20.6,5
+DPR,Overgrown Tree/Branches,-24.142857142857142,7
+DOHMH,Indoor Sewage,-26.0,3
+DPR,Illegal Tree Damage,-130.5,2

@@ -1,0 +1,36 @@
+Agency,Complaint Type,Efficiency in %,count
+DOT,Highway Condition,96.0,2
+DOT,Street Sign - Missing,77.66666666666667,3
+DOT,Street Sign - Damaged,42.25,4
+DOT,Curb Condition,29.0,1
+DOHMH,Rodent,26.0,2
+DOHMH,Standing Water,21.0,2
+DOT,Broken Parking Meter,17.0,1
+DOHMH,Indoor Air Quality,16.2,5
+DOT,Broken Muni Meter,15.052631578947368,19
+DPR,DPR Internal,13.0,1
+DPR,Violation of Park Rules,13.0,1
+DOHMH,Food Poisoning,9.0,2
+DOT,Sidewalk Condition,8.666666666666666,12
+DPR,Animal in a Park,8.333333333333334,3
+DOITT,Public Payphone Complaint,8.0,1
+DOF,SCRIE,7.0,4
+DCA,DCA / DOH New License Application Request,6.0,1
+DOT,DOT Literature Request,6.0,1
+DOT,Street Sign - Dangling,5.0,3
+DOT,Ferry Complaint,5.0,1
+DOT,Street Condition,4.650793650793651,63
+FDNY,Open Flame Permit,3.0,1
+DCA,Consumer Complaint,2.375,32
+DOB,Construction,1.8666666666666667,15
+DPR,Maintenance or Facility,1.7222222222222223,18
+DOHMH,Food Establishment,1.6428571428571428,14
+DOE,School Maintenance,1.5,2
+NYPD,Traffic,0.0,9
+FDNY,EAP Inspection - F59,0.0,1
+NYPD,Posting Advertisement,0.0,2
+NYPD,Noise - Park,0.0,11
+NYPD,Graffiti,0.0,1
+NYPD,Bike/Roller/Skate Chronic,0.0,1
+NYPD,Noise - House of Worship,0.0,1
+NYPD,Drinking,0.0,5

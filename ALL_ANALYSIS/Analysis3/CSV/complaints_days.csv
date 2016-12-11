@@ -1,0 +1,43 @@
+day_of_week,Borough,count
+Friday,BRONX,34
+Thursday,BRONX,23
+Saturday,BRONX,10
+Tuesday,BRONX,17
+Monday,BRONX,29
+Sunday,BRONX,33
+Wednesday,BRONX,14
+Monday,BROOKLYN,47
+Sunday,BROOKLYN,40
+Wednesday,BROOKLYN,36
+Thursday,BROOKLYN,44
+Saturday,BROOKLYN,50
+Friday,BROOKLYN,54
+Tuesday,BROOKLYN,26
+Thursday,MANHATTAN,30
+Wednesday,MANHATTAN,18
+Tuesday,MANHATTAN,36
+Sunday,MANHATTAN,39
+Monday,MANHATTAN,20
+Saturday,MANHATTAN,30
+Friday,MANHATTAN,39
+Saturday,QUEENS,19
+Sunday,QUEENS,30
+Wednesday,QUEENS,44
+Tuesday,QUEENS,55
+Thursday,QUEENS,34
+Monday,QUEENS,33
+Friday,QUEENS,39
+Saturday,STATEN ISLAND,8
+Friday,STATEN ISLAND,11
+Monday,STATEN ISLAND,10
+Sunday,STATEN ISLAND,2
+Wednesday,STATEN ISLAND,4
+Thursday,STATEN ISLAND,6
+Tuesday,STATEN ISLAND,3
+Thursday,Unspecified,8
+Friday,Unspecified,5
+Saturday,Unspecified,2
+Monday,Unspecified,4
+Sunday,Unspecified,3
+Tuesday,Unspecified,4
+Wednesday,Unspecified,6

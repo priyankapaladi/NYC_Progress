@@ -1,0 +1,31 @@
+period,Borough,count
+afternoon,BRONX,39
+night,BRONX,42
+early morning,BRONX,35
+morning,BRONX,29
+evening,BRONX,15
+afternoon,BROOKLYN,72
+night,BROOKLYN,59
+early morning,BROOKLYN,47
+morning,BROOKLYN,72
+evening,BROOKLYN,47
+night,MANHATTAN,47
+morning,MANHATTAN,31
+evening,MANHATTAN,41
+afternoon,MANHATTAN,55
+early morning,MANHATTAN,38
+morning,QUEENS,57
+night,QUEENS,32
+evening,QUEENS,49
+afternoon,QUEENS,82
+early morning,QUEENS,34
+afternoon,STATEN ISLAND,15
+morning,STATEN ISLAND,10
+early morning,STATEN ISLAND,6
+evening,STATEN ISLAND,6
+night,STATEN ISLAND,7
+morning,Unspecified,13
+afternoon,Unspecified,11
+evening,Unspecified,1
+early morning,Unspecified,1
+night,Unspecified,6
