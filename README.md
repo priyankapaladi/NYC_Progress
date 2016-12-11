@@ -128,6 +128,8 @@ This is to check how each agency is handling complaints. To check if the agency 
 * Shows number of complaints in the category and how efficiently it has been solved/closed.
 * Each agency has been rated (given weights depending on the time taken by each agency to solve a complaint)
 *	Percentage of efficiency can be noticed.
+![efficient_agencies](https://cloud.githubusercontent.com/assets/22182874/21077203/bc42dd38-bf11-11e6-98ec-e820e6e1c77d.png)
+![inefficient_agencies](https://cloud.githubusercontent.com/assets/22182874/21077204/c77ca436-bf11-11e6-936a-6fa55a5a5514.png)
 
 
 Helps to decide what necessary actions can be taken by each agency depending on what category plays a major role in the daily life of city.
